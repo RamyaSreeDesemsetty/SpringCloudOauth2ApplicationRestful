@@ -1,0 +1,1 @@
+# SpringCloudOauth2ApplicationRestful
